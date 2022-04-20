@@ -1,4 +1,4 @@
-# library_mult
+# library_concatRemove
 Consider a string containing lowercase characters from the Portuguese alphabet. You can perform two types of operations on this string:
 
 Concat a lowercase character from the Portuguese alphabet at the end of the string.
