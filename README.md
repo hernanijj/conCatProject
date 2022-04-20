@@ -16,3 +16,18 @@ Output format Print 'yes' if you can get the string t by executing exactly k ope
 Example 1 bla bla bla bla blablabcde 8 yes
 
 Explanation It took 5 operations to reduce the string "blablablabla" to "blablab". Then, 3 concatenation operations (c, d, e) were needed to obtain the string "blablabcde". In this way, as it was possible to convert s to t using exactly k = 8 operations, the program printed "yes".
+
+
+
+## Running the application
+
+Instaling the library
+```
+site: https://pypi.org/project/concat-remove-library/0.1.0/
+```
+On cmd python type
+```
+pip install concat-remove-library==0.1.0
+```
+To test the library clone de code and run the examples
+```
